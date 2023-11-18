@@ -94,5 +94,5 @@ docker run -d -it -p 80:3000 --restart=always test:v1
 ```
 ```
 ## external 3rd party api
-```https://documenter.getpostman.com/view/1134062/T1LJjU52#c47920fa-af20-4444-b567-efc4f1f46498```
+https://documenter.getpostman.com/view/1134062/T1LJjU52#c47920fa-af20-4444-b567-efc4f1f46498
 
