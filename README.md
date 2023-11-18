@@ -11,7 +11,7 @@
 ## Quick run
 
 ```bash
-git clone --depth 1 url my-app
+git clone --depth 1 https://github.com/saifhany/fintech.git my-app
 cd my-app/
 cp env-example .env
 ```
@@ -20,7 +20,7 @@ cp env-example .env
 ## Comfortable development
 
 ```bash
-git clone --depth 1 url my-app
+git clone --depth 1 https://github.com/saifhany/fintech.git my-app
 cd my-app/
 cp env-example .env
 ```
